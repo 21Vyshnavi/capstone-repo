@@ -1,3 +1,5 @@
+cd ~/capstone-repo
+
 cat > README.md << 'EOF'
 # Capstone Project
 
@@ -22,3 +24,7 @@ This is the capstone project for FlyRank's Frontend AI Engineering track.
 ## License
 MIT
 EOF
+
+git add README.md
+git commit -m "fix: restore missing getting-started commands in README"
+git push

@@ -14,3 +14,4 @@ One-line description of what this project does and who it's for.
 
 ## License
 MIT
+This is the capstone project for FlyRank's Frontend AI Engineering track.
